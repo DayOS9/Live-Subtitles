@@ -1,4 +1,4 @@
-from apikeys import TOKEN, translateToken
+from keys import TOKEN, translateToken
 from languages import languages
 import ast
 from gtts import gTTS
